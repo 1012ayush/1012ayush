@@ -1,73 +1,32 @@
-<h1 align="center">Hi, I'm Ayush Katiyar 👋</h1>
-<p align="center">
-  <strong>Computer Engineering Undergrad @ VIT Bhopal</strong><br>
-  <em>Full-Stack Developer • Creative Engineer • ML Enthusiast</em>
+# 💫 About Me:
+
+I am a Computer Engineering student specializing in the intersection of Full-Stack Web Development, Interactive 3D Graphics, and Machine Learning. 
+
+Core Expertise
+Web Development: Experienced in architecting robust systems using the MERN and PERN stacks, blending reliable backend databases with modern frontend interfaces.
+Creative Coding & 3D: Crafting immersive visual environments, web apps, and desktop analytics suites like ChemEquip using Three.js and GSAP for fluid, timeline-driven motion.
+Machine Learning: Designing dependable data-driven workflows, focusing on feature engineering, predictive models, and multi-task learning frameworks.
+Programming: Proficient in JavaScript, TypeScript, Python, C++, HTML, and CSS.
+
+Projects & Impact
+My work focuses on creating high-performance tools and scalable systems, ranging from interactive parameter visualization suites to smart health monitoring platforms designed for real-world impact.
+
+GitHub: [1012ayush](https://github.com/1012ayush) | Email: your.email@example.com
+
+# 💻 Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=keras&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-black?style=flat-square&logo=three.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+# 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=1012ayush&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's GitHub Stats" height="180px" />
+  <br/>
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=1012ayush&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" height="180px" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-[blue]?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-[red]?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+# 🏆 GitHub Trophies
 
----
-
-### 🚀 About Me
-
-I am a **B.Tech Computer Engineering student** who bridges the gap between deep back-end architecture and highly immersive front-end user experiences. I specialize in building scalable web ecosystems and bringing them to life with interactive 3D graphics.
-
-- 🎓 **Education:** B.Tech in Computer Engineering (Expected 2028)
-- 💡 **Core Interests:** Scalable Web Architectures (MERN/PERN), Creative Canvas Coding, and Machine Learning.
-- 🌱 **Current Focus:** Optimizing WebGL performance and contributing to high-impact open-source systems.
-
----
-
-### 🛠️ Ecosystem & Tech Stack
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Software Engineering & Web</h4>
-      <ul>
-        <li><strong>Languages:</strong> JavaScript (ES6+), TypeScript, Python, C++, HTML5, CSS3</li>
-        <li><strong>Frameworks:</strong> React.js, Next.js, Node.js, Express.js</li>
-        <li><strong>Databases:</strong> PostgreSQL (PERN), MongoDB (MERN)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>✨ Creative Coding & ML</h4>
-      <ul>
-        <li><strong>3D & Motion:</strong> Three.js, GSAP (GreenSock), WebGL</li>
-        <li><strong>Machine Learning:</strong> TensorFlow, Keras, Feature Engineering</li>
-        <li><strong>DevOps & Tools:</strong> Git, GitHub, Docker, Postman, Linux</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔬 Engineering Focus Areas
-
-*   🌐 **Full-Stack Architectures:** Building fast, reliable REST APIs and designing clean data relational mapping across both SQL and NoSQL databases.
-*   📐 **3D Web Graphics:** Crafting interactive layouts, analytics suites, and spatial UI tools using **Three.js** combined with performance-tuned **GSAP** timelines.
-*   🧠 **Machine Learning Workflow:** Designing reliable predictive architectures, model deployment loops, and multi-task frameworks.
-*   🏆 **Competitive Problem Solving:** Actively strengthening algorithmic logic, time complexities, and data structures.
-
----
-
-### 📊 Engineering Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1012ayush&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ayush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=1012ayush&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1012ayush&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
----
-
-<p align="center">
-  <sub>⚡ <em>"Compiling clean code, one animation frame at a time."</em></sub>
-</p>
+```text
+“The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague.”
+                                                                                 - Edsger W. Dijkstra

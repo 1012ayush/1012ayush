@@ -25,20 +25,19 @@ GitHub: [1012ayush](https://github.com/1012ayush) | LinkedIn: [Ayush Katiyar](ht
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=1012ayush&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's GitHub Stats" height="180px" />
   <br/>
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=1012ayush&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages" height="180px" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1012ayush&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
-<table border="0" cellpadding="15" cellspacing="0" width="100%" style="background-color: #0d1117; border-radius: 8px; border: 1px solid #30363d;">
-  <tr>
-    <td>
-      <p style="color: #58a6ff; font-style: italic; font-size: 16px; margin: 0; line-height: 1.6;">
-        “The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague.”
-      </p>
-      <p align="right" style="color: #ff79c6; font-weight: bold; margin: 10px 0 0 0;">
-        — Edsger W. Dijkstra
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <blockquote style="background-color: #0d1117; padding: 20px; border-left: 6px solid #58a6ff; border-radius: 4px;">
+    <p style="color: #58a6ff; font-style: italic; font-size: 16.5px; font-family: monospace; line-height: 1.6; margin: 0;">
+      “The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague.”
+    </p>
+    <p align="right" style="color: #ff79c6; font-weight: bold; font-family: monospace; margin: 12px 0 0 0; font-size: 14px;">
+      — Edsger W. Dijkstra
+    </p>
+  </blockquote>
+</div>

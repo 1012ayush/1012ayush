@@ -31,13 +31,15 @@ GitHub: [1012ayush](https://github.com/1012ayush) | LinkedIn: [Ayush Katiyar](ht
 
 ---
 
-<div align="left">
-  <blockquote style="background-color: #0d1117; padding: 20px; border-left: 6px solid #58a6ff; border-radius: 4px;">
-    <p style="color: #58a6ff; font-style: italic; font-size: 16.5px; font-family: monospace; line-height: 1.6; margin: 0;">
-      “The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague.”
-    </p>
-    <p align="right" style="color: #ff79c6; font-weight: bold; font-family: monospace; margin: 12px 0 0 0; font-size: 14px;">
-      — Edsger W. Dijkstra
-    </p>
-  </blockquote>
-</div>
+<table border="0" cellpadding="20" cellspacing="0" width="100%" style="background-color: #12131a; border-radius: 12px; border: none;">
+  <tr>
+    <td>
+      <p style="color: #64f4ec; font-style: italic; font-weight: 500; font-size: 19px; margin: 0; line-height: 1.5; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+        “The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague.”
+      </p>
+      <p align="right" style="color: #ff3366; font-weight: 500; font-style: italic; font-size: 16px; margin: 15px 0 0 0; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+        - Edsger W. Dijkstra
+      </p>
+    </td>
+  </tr>
+</table>

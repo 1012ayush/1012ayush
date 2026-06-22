@@ -24,6 +24,7 @@ GitHub: [1012ayush](https://github.com/1012ayush) | LinkedIn: [Ayush Katiyar](ht
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=1012ayush&show_icons=true&theme=tokyonight&count_private=true" alt="Ayush's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1012ayush&theme=tokyonight" alt="Ayush's Streak Stats" height="180px" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1012ayush&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages" height="180px" />
